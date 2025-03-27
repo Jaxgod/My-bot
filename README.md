@@ -1,13 +1,13 @@
  <p align="center">
-  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏</h1>
+  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">joker-v1</h1>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&width=435&lines=My+Name+is+𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓+𝓥𝟏;Created+by+𝒟𝒶𝓃𝓃𝓎;Fork+Me+and+Enjoy!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&width=435&lines=My+Name+is+joker+v1;Created+by+black+joker;Fork+Me+and+Enjoy!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/f6j3fl.jpeg" alt="Main Graphic" />
+  <img src="[https://files.catbox.moe/rbnarc.jpeg]" alt="Main Graphic" />
 </p>
 
 <p align="center">
@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DannyTech20?tab=followers">
-    <img src="https://img.shields.io/github/followers/DannyTech20?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
+  <a href="https://github.com/jaxgod2?tab=followers">
+    <img src="https://img.shields.io/github/followers/jaxgod2?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
   </a>
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/stargazers/">
-    <img src="https://img.shields.io/github/stars/DannyTech20/CREEPY_MD-V1?color=blue&style=for-the-badge&logo=starship" alt="Stars" />
+  <a href="https://github.com/jaxgod2/my-bot/stargazers/">
+    <img src="https://img.shields.io/github/stars/jaxgod2/my-bot?color=blue&style=for-the-badge&logo=starship" alt="Stars" />
   </a>
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/network/members">
+  <a href="https://github.com/jaxgod2/my-bot/network/members">
     <img src="https://img.shields.io/github/forks/DannyTech20/CREEPY_MD-V1?color=red&style=for-the-badge&logo=git" alt="Forks" />
   </a>
   <a href="https://github.com/DannyTech20/CREEPY_MD-V1/watchers">
