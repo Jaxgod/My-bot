@@ -60,7 +60,7 @@
 
 <h3 align="left">2️⃣ Download the ZIP File</h3>
 <p align="left">
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/archive/refs/heads/main.zip">
+  <a href="https://github.com/jaxgod2/my-bot/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/Download%20ZIP-blue?style=for-the-badge&logo=files" alt="Download ZIP" />
   </a>
 </p>
@@ -81,7 +81,7 @@
 <h2 align="center">📋 Deployment Tutorial</h2>
 
 ### YouTube Bot Hosting  
-<a href="https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1" target="_blank">
+<a href="https://www.youtube.com/@Blackjoker-06" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Tutorial" />
 </a>
 
@@ -96,7 +96,7 @@
 ---
 
 ### Deploy in Replit  
-<a href="https://repl.it/github.com/DannyTech20/CREEPY_MD-V1" target="_blank">
+<a href="https://repl.it/github.com/jaxgod2/my-bot" target="_blank">
   <img src="https://img.shields.io/badge/Replit-orange?style=for-the-badge&logo=replit" alt="Deploy in Replit" />
 </a>
 
@@ -127,7 +127,7 @@
 
 <h2 align="center">📲 Join the Community</h2>
 
-<a href="https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r" target="_blank">
+<a href="https://whatsapp.com/channel/0029VaqVli82P59qb2ollV2R" target="_blank">
   <img src="https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png" alt="Join WhatsApp" />
 </a>
 
@@ -138,10 +138,10 @@
 <h2 align="center">🎉 Thank You, My Supporters!</h2>
 
 <p align="center">
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/stargazers">
+  <a href="https://github.com/jaxgod2/my-bot/stargazers">
     <img src="https://img.shields.io/badge/Stars-User%20List-blue?style=for-the-badge&logo=starship" alt="Starred Users" />
   </a>
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/network/members">
+  <a href="https://github.com/jaxgod2/my-bot/network/members">
     <img src="https://img.shields.io/badge/Forked%20By-User%20List-green?style=for-the-badge&logo=github" alt="Forked Users" />
   </a>
 </p>
