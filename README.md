@@ -15,22 +15,22 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jaxgod2?tab=followers">
-    <img src="https://img.shields.io/github/followers/jaxgod2?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
+  <a href="https://github.com/jaxgod?tab=followers">
+    <img src="https://img.shields.io/github/followers/jaxgod?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
   </a>
-  <a href="https://github.com/jaxgod2/my-bot/stargazers/">
+  <a href="https://github.com/jaxgod/my-bot/stargazers/">
     <img src="https://img.shields.io/github/stars/jaxgod2/my-bot?color=blue&style=for-the-badge&logo=starship" alt="Stars" />
   </a>
-  <a href="https://github.com/jaxgod2/my-bot/network/members">
+  <a href="https://github.com/jaxgod/my-bot/network/members">
     <img src="https://img.shields.io/github/forks/jaxgod2/my-bot?color=red&style=for-the-badge&logo=git" alt="Forks" />
   </a>
-  <a href="https://github.com/jaxgod2/my-bot/watchers">
-    <img src="https://img.shields.io/github/watchers/jaxgod2/my-bot?label=Watches&style=for-the-badge&color=brightgreen" alt="Watches" />
+  <a href="https://github.com/jaxgod/my-bot/watchers">
+    <img src="https://img.shields.io/github/watchers/jaxgod/my-bot?label=Watches&style=for-the-badge&color=brightgreen" alt="Watches" />
   </a>
-  <a href="https://github.com/jaxgod2/my-bot/">
+  <a href="https://github.com/jaxgod/my-bot/">
     <img src="https://img.shields.io/github/repo-size/jaxgod2/my-bot?style=for-the-badge&color=orange" alt="Repo Size" />
   </a>
-  <a href="https://github.com/jaxgod2/my-bot/graphs/commit-activity">
+  <a href="https://github.com/jaxgod/my-bot/graphs/commit-activity">
     <img src="https://img.shields.io/badge/Maintained%3F-Yes-yellow?style=for-the-badge" alt="Maintenance" />
   </a>
 </p>
@@ -60,7 +60,7 @@
 
 <h3 align="left">2️⃣ Download the ZIP File</h3>
 <p align="left">
-  <a href="https://github.com/jaxgod2/my-bot/archive/refs/heads/main.zip">
+  <a href="https://github.com/jaxgod/my-bot/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/Download%20ZIP-blue?style=for-the-badge&logo=files" alt="Download ZIP" />
   </a>
 </p>
@@ -96,7 +96,7 @@
 ---
 
 ### Deploy in Replit  
-<a href="https://repl.it/github.com/jaxgod2/my-bot" target="_blank">
+<a href="https://repl.it/github.com/jaxgod/my-bot" target="_blank">
   <img src="https://img.shields.io/badge/Replit-orange?style=for-the-badge&logo=replit" alt="Deploy in Replit" />
 </a>
 
@@ -138,10 +138,10 @@
 <h2 align="center">🎉 Thank You, My Supporters!</h2>
 
 <p align="center">
-  <a href="https://github.com/jaxgod2/my-bot/stargazers">
+  <a href="https://github.com/jaxgod/my-bot/stargazers">
     <img src="https://img.shields.io/badge/Stars-User%20List-blue?style=for-the-badge&logo=starship" alt="Starred Users" />
   </a>
-  <a href="https://github.com/jaxgod2/my-bot/network/members">
+  <a href="https://github.com/jaxgod/my-bot/network/members">
     <img src="https://img.shields.io/badge/Forked%20By-User%20List-green?style=for-the-badge&logo=github" alt="Forked Users" />
   </a>
 </p>
