@@ -22,15 +22,15 @@
     <img src="https://img.shields.io/github/stars/jaxgod2/my-bot?color=blue&style=for-the-badge&logo=starship" alt="Stars" />
   </a>
   <a href="https://github.com/jaxgod2/my-bot/network/members">
-    <img src="https://img.shields.io/github/forks/DannyTech20/CREEPY_MD-V1?color=red&style=for-the-badge&logo=git" alt="Forks" />
+    <img src="https://img.shields.io/github/forks/jaxgod2/my-bot?color=red&style=for-the-badge&logo=git" alt="Forks" />
   </a>
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/watchers">
-    <img src="https://img.shields.io/github/watchers/DannyTech20/CREEPY_MD-V1?label=Watches&style=for-the-badge&color=brightgreen" alt="Watches" />
+  <a href="https://github.com/jaxgod2/my-bot/watchers">
+    <img src="https://img.shields.io/github/watchers/jaxgod2/my-bot?label=Watches&style=for-the-badge&color=brightgreen" alt="Watches" />
   </a>
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/">
-    <img src="https://img.shields.io/github/repo-size/DannyTech20/CREEPY_MD-V1?style=for-the-badge&color=orange" alt="Repo Size" />
+  <a href="https://github.com/jaxgod2/my-bot/">
+    <img src="https://img.shields.io/github/repo-size/jaxgod2/my-bot?style=for-the-badge&color=orange" alt="Repo Size" />
   </a>
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/graphs/commit-activity">
+  <a href="https://github.com/jaxgod2/my-bot/graphs/commit-activity">
     <img src="https://img.shields.io/badge/Maintained%3F-Yes-yellow?style=for-the-badge" alt="Maintenance" />
   </a>
 </p>
@@ -53,7 +53,7 @@
 
 <h3 align="left">1️⃣ Fork the Repo</h3>
 <p align="left">
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/fork">
+  <a href="https://github.com/Jaxgod/My-bot/fork">
     <img src="https://img.shields.io/badge/Fork%20Repo-black?style=for-the-badge&logo=github" alt="Fork Button" />
   </a>
 </p>
