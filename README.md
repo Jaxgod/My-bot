@@ -68,7 +68,7 @@
 
 ### Get Your Session ID
 <p align="center">
-  <a href="https://creepy-session.onrender.com" target="_blank">
+  <a href="https://joker-session.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Get%20Session-ID-blue?style=for-the-badge&logo=key" alt="Get Session ID" />
   </a>
 </p>
