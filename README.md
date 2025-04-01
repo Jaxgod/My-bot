@@ -81,7 +81,7 @@
 <h2 align="center">📋 Deployment Tutorial</h2>
 
 ### YouTube Bot Hosting  
-<a href="https://www.youtube.com/@Blackjoker-06" target="_blank">
+<a href="https://youtu.be/m-bFHCsrFGw?si=-wO5P-pR0dOJVSIC" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Tutorial" />
 </a>
 
